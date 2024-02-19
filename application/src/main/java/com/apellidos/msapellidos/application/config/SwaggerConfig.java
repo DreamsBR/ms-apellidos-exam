@@ -9,7 +9,7 @@ public class SwaggerConfig {
     @Bean
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
-                .info(new Info().title("Apis del MS-REGISTRO").version("1.0"));
+                .info(new Info().title("Apis del MS-APELLIDOS \n MARCOS BASURTO ROCA").version("2.0"));
     }
 
 }
